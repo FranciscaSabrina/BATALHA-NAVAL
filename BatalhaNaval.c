@@ -27,4 +27,4 @@ void imprimirTabuleiro(int tabuleiro[TAMANHO_TABULEIRO][TAMANHO_TABULEIRO]) {
 int podePosicionarHV(int tabuleiro[TAMANHO_TABULEIRO][TAMANHO_TABULEIRO],
                      int linha, int coluna, char orientacao) {
     if (orientacao == 'H') {
-        if (coluna + TAMANHO_NAVIO > TA_
+     } else { (coluna + TAMANHO_NAVIO > TA_ }
